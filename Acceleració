@@ -18,7 +18,7 @@ void move() {
   if (x > width) {
     x = 0;
   }
-y = y + speed; speed = speed * 1.0001
+y = y + speed; speed = speed * 1.01
 if (y > height){
 y=0;
 }
