@@ -1,4 +1,4 @@
-//membres: Óscar, Adrián i Matias programa: Óscar i Adrián
+//programa: Óscar i Adrián
 //a les variables vam posar el color i la posició inicial del rectangle i dues velocitats
 color c = color(0);
 float x = 10;
